@@ -433,3 +433,4 @@ FodyWeavers.xsd
 
 #elimina estte archivo de configuracion de la base de datos local
 appsettings.Development.json
+
